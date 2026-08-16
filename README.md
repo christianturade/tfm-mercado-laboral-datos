@@ -38,7 +38,7 @@ Construir un sistema de inteligencia del mercado laboral en el sector de datos y
 ## Estado del proyecto
 
 - [x] Fase 1 · Modelado y consultas SQL en BigQuery
-- [ ] Fase 2 · Análisis exploratorio y estadístico (Python)
+- [x] Fase 2 · Análisis exploratorio y estadístico (Python)
 - [ ] Fase 3 · Text Mining de skills
 - [ ] Fase 4 · Machine Learning (clustering + clasificación)
 - [ ] Fase 5 · Dashboard en Power BI
