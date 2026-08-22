@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31105182/README.md)
 # tfm-mercado-laboral-datos
 TFM - Análisis del Mercado Laboral en Datos y Analytics (UCM)
 # Análisis del Mercado Laboral en Datos y Analytics
