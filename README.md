@@ -41,7 +41,7 @@ Construir un sistema de inteligencia del mercado laboral en el sector de datos y
 - [x] Fase 2 · Análisis exploratorio y estadístico (Python)
 - [x] Fase 3 · Text Mining de skills
 - [x] Fase 4 · Machine Learning (clustering + clasificación)
-- [ ] Fase 5 · Dashboard en Power BI
+- [x] Fase 5 · Dashboard en Power BI
 - [ ] Fase 6 · Productivización del modelo
 
 ## Memoria y vídeo
