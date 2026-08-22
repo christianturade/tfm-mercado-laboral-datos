@@ -24,7 +24,7 @@ Construir un sistema de inteligencia del mercado laboral en el sector de datos y
 |---|---|---|
 | [`sql/`](sql/) | Exploración, calidad de datos, categorización de roles, vista analítica maestra | Fase 1 · Bases de Datos SQL |
 | `notebooks/` | Cuadernos de Google Colab (EDA, Text Mining, Machine Learning, productivización) | Fases 2, 3, 4 y 6 · Python, Estadística, Text Mining, ML, Visualización |
-| `dashboard/` | Dashboard ejecutivo de Power BI | Fase 5 · Business Intelligence |
+| `dashboard/` | Dashboard ejecutivo de Tableau | Fase 5 · Business Intelligence |
 | `modelos/` | Modelo Random Forest serializado (`.pkl`) | Fase 6 · Productivización |
 | `docs/` | Notas complementarias (licencia de datos, etc.) | — |
 
@@ -32,7 +32,7 @@ Construir un sistema de inteligencia del mercado laboral en el sector de datos y
 
 - **SQL:** Google BigQuery (Sandbox, nivel gratuito)
 - **Python / análisis:** Google Colab
-- **Visualización / BI:** Microsoft Power BI Desktop
+- **Visualización / BI:** Tableau Public
 - **Dataset:** Kaggle (arshkon/linkedin-job-postings)
 
 ## Estado del proyecto
@@ -41,7 +41,7 @@ Construir un sistema de inteligencia del mercado laboral en el sector de datos y
 - [x] Fase 2 · Análisis exploratorio y estadístico (Python)
 - [x] Fase 3 · Text Mining de skills
 - [x] Fase 4 · Machine Learning (clustering + clasificación)
-- [x] Fase 5 · Dashboard en Power BI
+- [x] Fase 5 · Dashboard interactivo en Tableau
 - [ ] Fase 6 · Productivización del modelo
 
 ## Memoria y vídeo
