@@ -20,7 +20,7 @@ Construir un sistema de inteligencia del mercado laboral en el sector de datos y
 | Carpeta | Contenido | Fase / Módulo del máster |
 |---|---|---|
 | [`sql/`](sql/) | Exploración, calidad de datos, categorización de roles, vista analítica maestra | Fase 1 · Bases de Datos SQL |
-| `notebooks/` | Cuadernos de Google Colab (EDA, Text Mining, Machine Learning, productivización) | Fases 2, 3, 4 y 6 · Python, Estadística, Text Mining, ML, Visualización |
+| [`notebooks/`](notebooks/) | Cuadernos de Google Colab (EDA, Text Mining, Machine Learning, productivización) | Fases 2, 3, 4 y 6 · Python, Estadística, Text Mining, ML, Visualización |
 | `tableau/` | Dashboard ejecutivo de Tableau | Fase 5 · Business Intelligence |
 | `modelos/` | Modelo Random Forest serializado (`.pkl`) | Fase 6 · Productivización |
 | `docs/` | Notas complementarias (licencia de datos, etc.) | — |
