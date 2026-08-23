@@ -11,8 +11,6 @@ Trabajo Fin de Máster — Máster de Formación Permanente en Data Science, Big
 
 Construir un sistema de inteligencia del mercado laboral en el sector de datos y analytics que identifique arquetipos de perfil profesional, las skills que más determinan cada tipo de rol, y una herramienta que, dado el perfil de un candidato, recomiende qué roles son más accesibles y qué skills debería priorizar.
 
-*Nota: el proyecto no incluye predicción salarial, por el alto porcentaje de valores ausentes en ese campo del dataset original (ver memoria, apartado 1).*
-
 ## Dataset
 
 **LinkedIn Job Postings 2023-2024** — [Kaggle, usuario arshkon](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings). 123.849 ofertas de empleo, 9 tablas relacionadas. Licencia CC BY-SA 4.0 (ver [`docs/licencia_datos.md`](docs/licencia_datos.md)).
