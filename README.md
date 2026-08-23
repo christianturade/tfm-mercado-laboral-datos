@@ -41,7 +41,7 @@ Construir un sistema de inteligencia del mercado laboral en el sector de datos y
 - [x] Fase 3 · Text Mining de skills
 - [x] Fase 4 · Machine Learning (clustering + clasificación)
 - [x] Fase 5 · Dashboard interactivo en Tableau
-- [ ] Fase 6 · Productivización del modelo
+- [x] Fase 6 · Productivización del modelo
 
 ## Memoria y vídeo
 
