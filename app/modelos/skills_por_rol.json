@@ -1,0 +1,86 @@
+{
+  "BI Analyst / Developer": [
+    "SQL",
+    "Power BI",
+    "Tableau",
+    "ETL",
+    "Python",
+    "Excel",
+    "DAX",
+    "Azure",
+    "R",
+    "Agile"
+  ],
+  "Business Analyst": [
+    "Agile",
+    "Excel",
+    "SQL",
+    "Jira",
+    "Scrum",
+    "Power BI",
+    "Tableau",
+    "Salesforce",
+    "Python",
+    "SAP"
+  ],
+  "Data Analyst": [
+    "SQL",
+    "Excel",
+    "Python",
+    "Tableau",
+    "Power BI",
+    "Agile",
+    "R",
+    "Machine Learning",
+    "Java",
+    "C++"
+  ],
+  "Data Architect": [
+    "SQL",
+    "Azure",
+    "ETL",
+    "Snowflake",
+    "Python",
+    "AWS",
+    "Spark",
+    "Agile",
+    "Databricks",
+    "Google Cloud"
+  ],
+  "Data Engineer": [
+    "SQL",
+    "Python",
+    "AWS",
+    "Azure",
+    "Spark",
+    "ETL",
+    "Agile",
+    "Java",
+    "Scala",
+    "Snowflake"
+  ],
+  "Data Scientist": [
+    "Python",
+    "Machine Learning",
+    "SQL",
+    "R",
+    "AWS",
+    "Spark",
+    "Deep Learning",
+    "Tableau",
+    "Scala",
+    "Google Cloud"
+  ],
+  "Machine Learning Engineer": [
+    "Machine Learning",
+    "Python",
+    "Deep Learning",
+    "AWS",
+    "Spark",
+    "Java",
+    "SQL",
+    "Google Cloud",
+    "Scikit-learn",
+    "Azure"
+  ]
+}
